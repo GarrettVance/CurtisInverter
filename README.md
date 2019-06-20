@@ -1,2 +1,2 @@
 # CurtisInverter
-Reflections in hyperbolic geometry correspond to inversion in a circle. Windows 10 app to demo inversion.
+Reflections in hyperbolic geometry correspond to inversion in a circle. Windows 10 app to demo inversion. This is a Visual Studio 2017 C++ project for Windows 10 to create a UWP application. This Visual Studio project has a dependency on The Microsoft DirectXTK library. You must install Microsoft DirectXTK for Windows 10 x86 prior to building the Inverter project in Visual Studio 2017. Tested only on Windows 10. 
